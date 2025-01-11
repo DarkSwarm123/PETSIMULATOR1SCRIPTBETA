@@ -46,8 +46,7 @@ local Settings = {
 }
 
 local Deleters = {
-    "Dominus Pumpkin", "Dominus Cherry", "Dominus Noob", "Dominus Wavy", 
-    "Dominus Damnee", "Dominus HeadStack", "Spike", "Aesthetic Cat", "Magic Fox", 
+    "Dominus Pumpkin", "Dominus Cherry", "Dominus Noob", "Dominus Wavy", "Dominus HeadStack", "Spike", "Aesthetic Cat", "Magic Fox", 
     "Chimera", "Gingerbread", "Festive Ame Damnee", "Reindeer", "Festive Dominus"
 }
 
