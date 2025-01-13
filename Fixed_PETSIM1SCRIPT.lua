@@ -295,3 +295,5 @@ game:GetService("Players").LocalPlayer.Idled:Connect(function()
     VirtualUser:ClickButton2(Vector2.new(0, 0))
     print("Anti-AFK: Zapobieganie rozłączeniu.")
 	end)
+
+Rayfield:LoadConfiguration()
